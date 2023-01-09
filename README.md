@@ -32,3 +32,8 @@ AMA = Associação dos Misturadores de Adubo do Brasil
 [x] - onde tem rocha + misturadores -> #71CA00
 [x] - onde tem cf + misturadores -> #6428B2
 [] - ajustar o marker quando zoomIn e zoomOut no map
+
+
+
+
+https://github.com/asyncFrank/map-wout-distance.git
